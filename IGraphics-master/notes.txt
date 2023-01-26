@@ -1,0 +1,29 @@
+Tools
+https://www.canva.com/
+https://mixkit.co/free-sound-effects/game/
+https://www.freeconvert.com/mp3-to-wav
+https://spritefx.blogspot.com/
+google for box images , pink box background
+MS paint
+
+/*
+
+top left: 45, 764
+bottom left: 45, 4
+top right : 502 ,764(495 , 764)
+bottom right :(495 , 4) 502, 4
+
+one tile: 90, 764 right, 45, 719 bottom
+
+tile : 45x45 
+
+up next : 760 576
+lvl : 587 403
+scr : 716 378
+hi scr: 767 229
+
+
+
+*/
+
+
